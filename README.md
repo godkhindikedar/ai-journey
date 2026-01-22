@@ -16,3 +16,6 @@ Sponsor Identification number: 140940
 
 ## Exercice file Repo : 
 https://github.com/godkhindikedar/generative-AI-working-with-large-language-models
+
+## LinkedIn Draft Mode Post Template
+- See `linkedin-draft-post.md` for a prompt and example draft post template.
