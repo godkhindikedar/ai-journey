@@ -19,3 +19,6 @@ https://github.com/godkhindikedar/generative-AI-working-with-large-language-mode
 
 ## LinkedIn Draft Mode Post Template
 - See `linkedin-draft-post.md` for a prompt and example draft post template.
+
+## UiPath Monitoring and Alerting
+- See `uipath-monitoring-alerting.md` for a practical architecture and implementation plan.
